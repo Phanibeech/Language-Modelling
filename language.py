@@ -1,7 +1,6 @@
 """
 Language Modeling Project
-Name:
-Roll No:
+
 """
 
 import language_tests as test
